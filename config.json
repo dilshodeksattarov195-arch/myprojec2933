@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productdrocess",
+        "uuid": 3364151,
+        "checksum": "olpph4"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
